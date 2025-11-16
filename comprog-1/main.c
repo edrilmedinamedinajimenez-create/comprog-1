@@ -5,6 +5,6 @@ int main()
 {
     printf("Hello world!\n");
     printf("sample change");
-    printf("sample change for dev");
+    printf("sample change for main");
     return 0;
 }
